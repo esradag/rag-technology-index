@@ -3,7 +3,7 @@
 A comprehensive repository of 100+ RAG (Retrieval-Augmented Generation) libraries, frameworks, and tools organized by category.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="https://www.linkedin.com/in/esra-da%C4%9F-49653115b/">
     <img src="https://custom-icon-badges.demolab.com/badge/Your%20Name-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/your-handle">
