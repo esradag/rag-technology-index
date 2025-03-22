@@ -22,31 +22,31 @@ A comprehensive repository of 100+ RAG (Retrieval-Augmented Generation) librarie
 
 | Library | Description | Link |
 |---------|-------------|------|
-| LangChain | Leading framework for building RAG applications with 74k+ stars | [Link](https://github.com/langchain-ai/langchain) |
-| LlamaIndex | Widely used data framework for RAG applications with 26k+ stars | [Link](https://github.com/run-llama/llama_index) |
-| Haystack | Popular end-to-end NLP framework with 13k+ stars | [Link](https://github.com/deepset-ai/haystack) |
-| DSPy | Stanford NLP's framework with declarative API and 12k+ stars | [Link](https://github.com/stanfordnlp/dspy) |
-| Llmware | Enterprise RAG framework with production-ready capabilities | [Link](https://github.com/llmware-ai/llmware) |
-| Embedchain | Open source RAG framework with 7k+ stars | [Link](https://github.com/embedchain/embedchain) |
-| AutoChain | Framework for building and running reliable LLM apps with 3.5k+ stars | [Link](https://github.com/Forethought-Technologies/AutoChain) |
-| Langflow | Visual tool for building RAG applications with 14k+ stars | [Link](https://github.com/langflow-ai/langflow) |
-| CrewAI | Framework for orchestrating role-playing agents with 12k+ stars | [Link](https://github.com/joaomdmoura/crewAI) |
-| FastRAG | Intel's research framework for optimized RAG pipelines | [Link](https://github.com/IntelLabs/fastRAG) |
+| LangChain | Leading framework for building RAG applications with document loaders, retrievers, and agents | [Link](https://github.com/langchain-ai/langchain) |
+| LlamaIndex | Widely used data framework that simplifies connecting custom data sources to LLMs | [Link](https://github.com/run-llama/llama_index) |
+| Haystack | End-to-end NLP framework with extensive RAG functionality and pipeline architecture | [Link](https://github.com/deepset-ai/haystack) |
+| DSPy | Stanford NLP's framework with declarative API for programming language models | [Link](https://github.com/stanfordnlp/dspy) |
+| Llmware | Enterprise RAG framework with production-ready capabilities for specialized models | [Link](https://github.com/llmware-ai/llmware) |
+| Embedchain | Open source RAG framework to create bots from any data source with minimal setup | [Link](https://github.com/embedchain/embedchain) |
+| AutoChain | Framework for building and running reliable LLM applications with structured outputs | [Link](https://github.com/Forethought-Technologies/AutoChain) |
+| Langflow | Visual low-code tool for building and prototyping RAG applications quickly | [Link](https://github.com/langflow-ai/langflow) |
+| CrewAI | Framework for orchestrating role-playing agents in complex RAG workflows | [Link](https://github.com/joaomdmoura/crewAI) |
+| FastRAG | Intel's research framework for efficient and optimized RAG pipelines | [Link](https://github.com/IntelLabs/fastRAG) |
 
 ## Document Processing
 
 | Library | Description | Link |
 |---------|-------------|------|
-| Unstructured | Library for pre-processing and extracting from unstructured data | [Link](https://github.com/Unstructured-IO/unstructured) |
-| LlamaHub | Collection of data loaders and readers for 100+ data sources | [Link](https://github.com/run-llama/llama-hub) |
-| DocArray | Library for representing, sending, and storing nested multimodal data | [Link](https://github.com/docarray/docarray) |
-| Dociling | Fast document parser that exports to desired formats | [Link](https://github.com/DS4SD/docling) |
-| PyMuPDF4LLM | Library for extracting PDF content for LLM & RAG environments | [Link](https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/) |
-| Llama Parse | GenAI-native document parser for complex document data | [Link](https://github.com/run-llama/llama_cloud_services) |
-| MegaParse | Parser for every type of document | [Link](https://github.com/quivrhq/megaparse) |
-| Chroma | Open-source embedding database with document processors | [Link](https://github.com/chroma-core/chroma) |
-| Langchain Document Loaders | 80+ document loaders for various file types and data sources | [Link](https://python.langchain.com/docs/modules/data_connection/document_loaders/) |
+| Unstructured | Leading library for pre-processing and extracting information from unstructured data | [Link](https://github.com/Unstructured-IO/unstructured) |
+| LangChain Document Loaders | Comprehensive collection of 80+ document loaders for various file types and data sources | [Link (https://python.langchain.com/docs/modules/data_connection/document_loaders/) |
+| DocArray | Powerful library for representing, sending, and storing nested multimodal data | [Link](https://github.com/docarray/docarray) |
+| PyMuPDF | Industry-standard library for extracting PDF content for LLM & RAG environments | [Link](https://pymupdf.readthedocs.io/en/latest/) |
+| LlamaHub | Extensive collection of data loaders and readers for 100+ data sources | [Link](https://github.com/run-llama/llama-hub) |
 | Txtai | All-in-one embeddings database with document processing capabilities | [Link](https://github.com/neuml/txtai) |
+| Chroma | Open-source embedding database with powerful document processors | [Link](https://github.com/chroma-core/chroma) |
+| Semantic Router | Intelligent document routing and processing system | [Link](https://github.com/aurelio-labs/semantic-router) |
+| Detectron2 | Facebook AI's advanced document layout analysis system | [Link](https://github.com/facebookresearch/detectron2) |
+| Document Understanding | Microsoft's comprehensive document processing toolkit | [Link](https://github.com/microsoft/unilm/tree/master/dit) |
 
 ## Vector Databases
 
