@@ -244,6 +244,6 @@ A comprehensive repository of 100+ RAG (Retrieval-Augmented Generation) librarie
 | Hugging Face RAG Guide | Guide to implementing RAG | [Link](https://huggingface.co/docs/transformers/model_doc/rag) |
 ## ⭐️ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=esradag/rag-technology-index&type=Date)](https://star-history.com/#)
+
 
 Please consider giving a star, if you find this repository useful.
