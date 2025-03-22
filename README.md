@@ -52,16 +52,16 @@ A comprehensive repository of 100+ RAG (Retrieval-Augmented Generation) librarie
 
 | Library | Description | Link |
 |---------|-------------|------|
-| Chroma | Open-source embedding database built for AI applications | [Link](https://github.com/chroma-core/chroma) |
-| Qdrant | Vector similarity search engine with extended filtering support | [Link](https://github.com/qdrant/qdrant) |
-| Weaviate | Open source vector database that stores both objects and vectors | [Link](https://github.com/weaviate/weaviate) |
-| Milvus | Open-source vector database built for scalable similarity search | [Link](https://github.com/milvus-io/milvus) |
-| Pinecone | Serverless vector database for long-term memory in AI | [Link](https://www.pinecone.io/) |
-| SQLite-Vec | Vector search SQLite extension that runs anywhere | [Link](https://github.com/asg017/sqlite-vec) |
-| Faiss | Library for efficient similarity search and clustering of dense vectors | [Link](https://github.com/facebookresearch/faiss) |
-| Vespa | Scalable engine for low-latency computation over large data sets | [Link](https://github.com/vespa-engine/vespa) |
-| Marqo | Cloud-native vector search engine with advanced search and analytics features | [Link](https://github.com/marqo-ai/marqo) |
-| PGVector | Open-source vector similarity search for Postgres | [Link](https://github.com/pgvector/pgvector) |
+| Faiss | Meta's industry-standard library for efficient similarity search with massive adoption | [Link](https://github.com/facebookresearch/faiss) |
+| Milvus | Enterprise-grade vector database built for scalable similarity search | [Link](https://github.com/milvus-io/milvus) |
+| Pinecone | Leading serverless vector database for production AI applications | [Link](https://www.pinecone.io/) |
+| Weaviate | Open source vector database with integrated neural search capabilities | [Link](https://github.com/weaviate/weaviate) |
+| Qdrant | High-performance vector similarity search engine with extended filtering | [Link](https://github.com/qdrant/qdrant) |
+| Chroma | Developer-friendly embedding database built specifically for RAG applications | [Link](https://github.com/chroma-core/chroma) |
+| PGVector | PostgreSQL extension for vector similarity search with SQL integration | [Link](https://github.com/pgvector/pgvector) |
+| Vespa | Scalable engine for low-latency computation over large vector datasets | [Link](https://github.com/vespa-engine/vespa) |
+| LanceDB | Vector database for machine learning applications with fast local processing | [Link](https://github.com/lancedb/lancedb) |
+| Elasticsearch | Enterprise search platform with vector search capabilities | [Link](https://github.com/elastic/elasticsearch) |
 
 ## Embedding Models
 
