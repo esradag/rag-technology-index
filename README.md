@@ -131,11 +131,11 @@ A comprehensive repository of 100+ RAG (Retrieval-Augmented Generation) librarie
 | TruLens | Evaluation and tracking for LLM experiments | [Link](https://github.com/truera/trulens) |
 | RAGChecker | Fine-grained Framework For Diagnosing RAG | [Link](https://github.com/amazon-science/RAGChecker) |
 | DeepEval | LLM Evaluation Framework with RAG assessment capabilities | [Link](https://github.com/confident-ai/deepeval) |
-| LlamaIndex Evaluators | Built-in evaluation tools for RAG pipelines | [Link](https://docs.llamaindex.ai/en/stable/module_guides/evaluating/root/) |
+| LlamaIndex Evaluation | Built-in evaluation tools for RAG pipelines | [Link](https://docs.llamaindex.ai/en/stable/module_guides/evaluating/) |
 | TART Benchmarks | Toolkit for Advanced Retrieval Techniques with built-in benchmarks | [Link](https://github.com/facebookresearch/tart) |
 | BEIR | Heterogeneous Benchmark for Information Retrieval | [Link](https://github.com/beir-cellar/beir) |
-| Lanarky | RAG evaluation framework for LLM applications | [Link](https://github.com/ajmanrique/lanarky) |
-| RAG Arena | Framework for comparing different RAG implementations | [Link](https://github.com/RAGArena/RAGArena) |
+| GEAR | General Evaluation framework for RAG pipelines | [Link](https://github.com/G-Research/gear) |
+| BRAG | Benchmark for RAG evaluation | [Link](https://github.com/McGill-NLP/BRAG) |
 | LangSmith | Tools for logging, monitoring, and evaluating LLM and RAG applications | [Link](https://github.com/langchain-ai/langsmith-sdk) |
 
 ## RAG Optimization
