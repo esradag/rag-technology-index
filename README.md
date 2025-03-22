@@ -22,16 +22,16 @@ A comprehensive repository of 100+ RAG (Retrieval-Augmented Generation) librarie
 
 | Library | Description | Link |
 |---------|-------------|------|
-| LlamaIndex | Data framework that helps build RAG applications with LLMs | [Link](https://github.com/run-llama/llama_index) |
-| LangChain | Framework for building RAG applications with document loaders, text splitters, embeddings, and retrievers | [Link](https://github.com/langchain-ai/langchain) |
-| Haystack | End-to-end NLP framework with extensive RAG functionality | [Link](https://github.com/deepset-ai/haystack) |
-| FastGraph RAG | Streamlined, promptable Fast GraphRAG framework for interpretable, high-precision, agent-driven retrieval workflows | [Link](https://github.com/circlemind-ai/fast-graphrag) |
-| RAG to Riches | Build, scale, and deploy state-of-the-art RAG applications | [Link](https://github.com/SciPhi-AI/R2R) |
-| BeyondLLM | All-in-one toolkit for experimentation, evaluation, and deployment of RAG systems | [Link](https://github.com/aiplanethub/beyondllm) |
-| fastRAG | Research framework for efficient and optimized RAG pipelines, incorporating state-of-the-art LLMs and Information Retrieval | [Link](https://github.com/IntelLabs/fastRAG) |
-| FlashRAG | Python Toolkit for Efficient RAG Research | [Link](https://github.com/RUC-NLPIR/FlashRAG) |
-| Llmware | Unified framework for building enterprise RAG pipelines with small, specialized models | [Link](https://github.com/llmware-ai/llmware) |
-| DSPy | Framework for programming language models based on declarative API and automated prompting | [Link](https://github.com/stanfordnlp/dspy) |
+| LangChain | Leading framework for building RAG applications with 74k+ stars | [Link](https://github.com/langchain-ai/langchain) |
+| LlamaIndex | Widely used data framework for RAG applications with 26k+ stars | [Link](https://github.com/run-llama/llama_index) |
+| Haystack | Popular end-to-end NLP framework with 13k+ stars | [Link](https://github.com/deepset-ai/haystack) |
+| DSPy | Stanford NLP's framework with declarative API and 12k+ stars | [Link](https://github.com/stanfordnlp/dspy) |
+| Llmware | Enterprise RAG framework with production-ready capabilities | [Link](https://github.com/llmware-ai/llmware) |
+| Embedchain | Open source RAG framework with 7k+ stars | [Link](https://github.com/embedchain/embedchain) |
+| AutoChain | Framework for building and running reliable LLM apps with 3.5k+ stars | [Link](https://github.com/Forethought-Technologies/AutoChain) |
+| Langflow | Visual tool for building RAG applications with 14k+ stars | [Link](https://github.com/langflow-ai/langflow) |
+| CrewAI | Framework for orchestrating role-playing agents with 12k+ stars | [Link](https://github.com/joaomdmoura/crewAI) |
+| FastRAG | Intel's research framework for optimized RAG pipelines | [Link](https://github.com/IntelLabs/fastRAG) |
 
 ## Document Processing
 
