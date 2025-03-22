@@ -23,9 +23,6 @@ A comprehensive repository of 100+ RAG (Retrieval-Augmented Generation) librarie
 | [🔧 RAG Tools](#rag-tools) | [📝 Query Transformation](#query-transformation) | [🧩 Multi-Modal RAG](#multi-modal-rag) |
 | [🚀 Production & Deployment](#production-and-deployment) | [🔐 Security & Compliance](#security-and-compliance) | [📖 Learning Resources](#learning-resources) |
 
-## Related Repositories
-- 🔧 [LLM Engineer Toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of 120+ LLM libraries by category
-- 🚀 [Advanced RAG Techniques Guide](https://github.com/yourusername/advanced-rag-techniques) - A comprehensive guide to advanced RAG implementations
 
 ## RAG Frameworks
 
