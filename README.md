@@ -217,16 +217,16 @@ A comprehensive repository of 100+ RAG (Retrieval-Augmented Generation) librarie
 
 | Library | Description | Link |
 |---------|-------------|------|
-| LLM Guard | Comprehensive security toolkit for LLM interactions with 4.7k+ stars | [Link](https://github.com/protectai/llm-guard) |
-| Guardrails AI | Framework for adding guardrails to LLMs with 3.2k+ stars | [Link](https://github.com/guardrails-ai/guardrails) |
-| NeMo Guardrails | NVIDIA's popular toolkit for LLM safety with 2.7k+ stars | [Link](https://github.com/NVIDIA/NeMo-Guardrails) |
-| Garak | LLM vulnerability scanner with 1.4k+ stars | [Link](https://github.com/leondz/garak) |
-| Langchain PII | Tools for detecting and redacting personally identifiable information | [Link](https://python.langchain.com/docs/modules/model_io/output_parsers/sensitive_output_parser) |
-| LangKit | Robust security toolkit for LLM applications | [Link](https://github.com/whylabs/langkit) |
-| Azure AI Content Safety | Microsoft's production-grade content filtering solution | [Link](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/overview) |
-| LangChain Security | Official security capabilities in the LangChain framework | [Link](https://python.langchain.com/docs/security) |
-| LLM Security | Prompt injection defenses and security practices | [Link](https://github.com/simonw/llm-security) |
-| HarmBench | Benchmark for testing LLM harmful output detection | [Link](https://github.com/microsoft/HarmBench) |
+| LLM Guard | Comprehensive security toolkit for LLM interactions | [Link](https://github.com/protectai/llm-guard) |
+| Guardrails AI | Framework for adding guardrails to LLMs | [Link](https://github.com/guardrails-ai/guardrails) |
+| NeMo Guardrails | NVIDIA's toolkit for LLM safety | [Link](https://github.com/NVIDIA/NeMo-Guardrails) |
+| Garak | LLM vulnerability scanner | [Link](https://github.com/leondz/garak) |
+| Azure Content Safety | Microsoft's content filtering solution | [Link](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/overview) |
+| Adversarial Robustness Toolkit | IBM's toolkit for LLM security testing | [Link](https://github.com/Trusted-AI/adversarial-robustness-toolbox) |
+| OpenAI Moderation | API for content moderation in LLM outputs | [Link](https://platform.openai.com/docs/guides/moderation) |
+| LangChain PEMA | Framework for measuring LLM alignment and safety | [Link](https://github.com/hwchase17/langchain-pema) |
+| Lakera Guard | Commercial LLM security solution with free tier | [Link](https://www.lakera.ai/products/lakera-guard) |
+| Allen AI Trojan Detection | Tools for detecting backdoors in LLMs | [Link](https://github.com/allenai/trojan-detection) |
 
 ## Learning Resources
 
