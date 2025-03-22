@@ -220,13 +220,13 @@ A comprehensive repository of 100+ RAG (Retrieval-Augmented Generation) librarie
 | LLM Guard | Comprehensive security toolkit for LLM interactions with 4.7k+ stars | [Link](https://github.com/protectai/llm-guard) |
 | Guardrails AI | Framework for adding guardrails to LLMs with 3.2k+ stars | [Link](https://github.com/guardrails-ai/guardrails) |
 | NeMo Guardrails | NVIDIA's popular toolkit for LLM safety with 2.7k+ stars | [Link](https://github.com/NVIDIA/NeMo-Guardrails) |
-| Garak | NVIDIA's LLM vulnerability scanner with 1.4k+ stars | [Link](https://github.com/leondz/garak) |
-| Rebuff | Leading prompt injection defense library with 1.6k+ stars | [Link](https://github.com/rebuff-ai/rebuff) |
-| Langkit | Robust security toolkit for LLM applications with real enterprise adoption | [Link](https://github.com/whylabs/langkit) |
-| Azure AI Content Safety | Microsoft's production-grade content filtering solution | [Link](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/) |
+| Garak | LLM vulnerability scanner with 1.4k+ stars | [Link](https://github.com/leondz/garak) |
+| Langchain PII | Tools for detecting and redacting personally identifiable information | [Link](https://python.langchain.com/docs/modules/model_io/output_parsers/sensitive_output_parser) |
+| LangKit | Robust security toolkit for LLM applications | [Link](https://github.com/whylabs/langkit) |
+| Azure AI Content Safety | Microsoft's production-grade content filtering solution | [Link](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/overview) |
 | LangChain Security | Official security capabilities in the LangChain framework | [Link](https://python.langchain.com/docs/security) |
-| Private RAG | Microsoft's privacy-preserving RAG framework | [Link](https://github.com/microsoft/PrivateRAG) |
-| Prompt Injection | Widely-used toolkit for detecting and preventing prompt injection | [Link](https://github.com/jthack/prompt-injection-notes) |
+| LLM Security | Prompt injection defenses and security practices | [Link](https://github.com/simonw/llm-security) |
+| HarmBench | Benchmark for testing LLM harmful output detection | [Link](https://github.com/microsoft/HarmBench) |
 
 ## Learning Resources
 
