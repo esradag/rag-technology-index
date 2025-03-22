@@ -232,17 +232,16 @@ A comprehensive repository of 100+ RAG (Retrieval-Augmented Generation) librarie
 
 | Resource | Description | Link |
 |---------|-------------|------|
-| RAG Learning Path | Comprehensive learning path for RAG technologies | [Link](https://learn.deeplearning.ai/courses/retrieval-augmented-generation) |
-| LlamaIndex RAG Tutorials | Step-by-step guides for building with LlamaIndex | [Link](https://github.com/run-llama/llama_index/tree/main/docs/examples) |
+| RAG with LlamaIndex | Official LlamaIndex guide to RAG | [Link](https://docs.llamaindex.ai/en/stable/use_cases/query_engine/) |
 | Pinecone RAG Guide | Complete guide to building RAG applications | [Link](https://www.pinecone.io/learn/retrieval-augmented-generation/) |
-| LangChain RAG Course | Full course on building RAG with LangChain | [Link](https://github.com/langchain-ai/langchain/tree/master/cookbook) |
-| RAG Papers Collection | Collection of important research papers on RAG | [Link](https://github.com/peterw/awesome-rag-papers) |
-| RAG Patterns | Design patterns for building effective RAG systems | [Link](https://github.com/ray-project/llm-applications/tree/main/notebooks/rag) |
-| Enterprise RAG Handbook | Guide to implementing RAG in enterprise settings | [Link](https://github.com/EnterpriseRAG/handbook) |
-| RAG Workshop | Hands-on workshop materials for learning RAG | [Link](https://github.com/rag-workshop/rag-workshop) |
-| Advanced RAG Techniques | Collection of advanced RAG implementation techniques | [Link](https://github.com/advanced-rag/advanced-rag-techniques) |
-| RAG Ecosystem Map | Visual map of the RAG ecosystem components | [Link](https://github.com/rag-ecosystem/rag-ecosystem-map) |
-
+| Langchain Documentation | RAG patterns and implementation guides | [Link](https://python.langchain.com/docs/modules/chains/popular/chat_vector_db) |
+| Awesome LLM-RAG | Curated list of RAG papers and resources | [Link](https://github.com/teacherpeterpan/Awesome-LLM-RAG) |
+| Azure OpenAI RAG Demo | Practical RAG implementation example | [Link](https://github.com/Azure-Samples/azure-search-openai-demo) |
+| Haystack Tutorials | Hands-on RAG tutorials | [Link](https://haystack.deepset.ai/tutorials/25_rag_pipeline) |
+| Weaviate RAG Guide | Building RAG with Weaviate | [Link](https://weaviate.io/blog/semantic-search-with-weaviate) |
+| Original RAG Paper | Lewis et al. research paper | [Link](https://arxiv.org/abs/2005.11401) |
+| RARR Benchmark | Benchmark for evaluating RAG systems | [Link](https://github.com/amazon-science/rarr) |
+| Hugging Face RAG Guide | Guide to implementing RAG | [Link](https://huggingface.co/docs/transformers/model_doc/rag) |
 ## ⭐️ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yourusername/rag-technology-index&type=Date)](https://star-history.com/#)
