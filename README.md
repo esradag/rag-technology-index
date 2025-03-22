@@ -242,7 +242,7 @@ A comprehensive repository of 100+ RAG (Retrieval-Augmented Generation) librarie
 | Original RAG Paper | Lewis et al. research paper | [Link](https://arxiv.org/abs/2005.11401) |
 | RARR Benchmark | Benchmark for evaluating RAG systems | [Link](https://github.com/amazon-science/rarr) |
 | Hugging Face RAG Guide | Guide to implementing RAG | [Link](https://huggingface.co/docs/transformers/model_doc/rag) |
-## ⭐️ Star History
+
 
 
 
