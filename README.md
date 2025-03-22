@@ -4,13 +4,7 @@ A comprehensive repository of 100+ RAG (Retrieval-Augmented Generation) librarie
 
 <p align="center">
   <a href="https://www.linkedin.com/in/esra-da%C4%9F-49653115b/">
-    <img src="https://custom-icon-badges.demolab.com/badge/Your%20Name-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Your%20Name-%23000000.svg?logo=X&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://www.youtube.com/@your-channel">
-    <img src="https://img.shields.io/badge/Your%20Name-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
+    <img src="https://custom-icon-badges.demolab.com/badge/Esra%20Da%C4%9F-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
   </a>
 </p>
 
