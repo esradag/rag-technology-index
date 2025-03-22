@@ -38,7 +38,7 @@ A comprehensive repository of 100+ RAG (Retrieval-Augmented Generation) librarie
 | Library | Description | Link |
 |---------|-------------|------|
 | Unstructured | Leading library for pre-processing and extracting information from unstructured data | [Link](https://github.com/Unstructured-IO/unstructured) |
-| LangChain Document Loaders | Comprehensive collection of 80+ document loaders for various file types and data sources | [Link (https://python.langchain.com/docs/modules/data_connection/document_loaders/) |
+| LangChain Document Loaders | Comprehensive collection of document loaders for various file types and data sources | [Link](https://python.langchain.com/docs/integrations/document_loaders/) |
 | DocArray | Powerful library for representing, sending, and storing nested multimodal data | [Link](https://github.com/docarray/docarray) |
 | PyMuPDF | Industry-standard library for extracting PDF content for LLM & RAG environments | [Link](https://pymupdf.readthedocs.io/en/latest/) |
 | LlamaHub | Extensive collection of data loaders and readers for 100+ data sources | [Link](https://github.com/run-llama/llama-hub) |
