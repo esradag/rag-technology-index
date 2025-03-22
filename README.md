@@ -127,16 +127,16 @@ A comprehensive repository of 100+ RAG (Retrieval-Augmented Generation) librarie
 
 | Library | Description | Link |
 |---------|-------------|------|
-| Ragas | Toolkit for evaluating RAG systems on various dimensions | [Link](https://github.com/explodinggradients/ragas) |
-| TruLens | Evaluation and tracking for LLM experiments | [Link](https://github.com/truera/trulens) |
-| RAGChecker | Fine-grained Framework For Diagnosing RAG | [Link](https://github.com/amazon-science/RAGChecker) |
-| DeepEval | LLM Evaluation Framework with RAG assessment capabilities | [Link](https://github.com/confident-ai/deepeval) |
-| LlamaIndex Evaluation | Built-in evaluation tools for RAG pipelines | [Link](https://docs.llamaindex.ai/en/stable/module_guides/evaluating/) |
-| TART Benchmarks | Toolkit for Advanced Retrieval Techniques with built-in benchmarks | [Link](https://github.com/facebookresearch/tart) |
-| BEIR | Heterogeneous Benchmark for Information Retrieval | [Link](https://github.com/beir-cellar/beir) |
-| GEAR | General Evaluation framework for RAG pipelines | [Link](https://github.com/G-Research/gear) |
-| BRAG | Benchmark for RAG evaluation | [Link](https://github.com/McGill-NLP/BRAG) |
-| LangSmith | Tools for logging, monitoring, and evaluating LLM and RAG applications | [Link](https://github.com/langchain-ai/langsmith-sdk) |
+| Ragas | Comprehensive evaluation framework for RAG systems with 3.5k+ stars | [Link](https://github.com/explodinggradients/ragas) |
+| TruLens | Popular evaluation and observability toolkit for LLM applications with 1.7k+ stars | [Link](https://github.com/truera/trulens) |
+| LangChain Evaluation | Official LangChain evaluation framework for RAG pipelines | [Link](https://python.langchain.com/docs/guides/evaluation/) |
+| DeepEval | Industry-standard LLM evaluation framework with 1.4k+ stars | [Link](https://github.com/confident-ai/deepeval) |
+| BEIR | Widely-used benchmark for information retrieval with 800+ stars | [Link](https://github.com/beir-cellar/beir) |
+| LangSmith | Production-grade evaluation platform by LangChain with 1k+ stars | [Link](https://github.com/langchain-ai/langsmith-sdk) |
+| Prometheus | Stanford CRFM's evaluation framework for generative AI with 1.2k+ stars | [Link](https://github.com/stanford-crfm/prometheus) |
+| MLflow Evaluation | Evaluation capabilities in the popular MLflow platform | [Link](https://mlflow.org/docs/latest/llms/llm-evaluate/index.html) |
+| Giskard | Open-source LLM testing framework with 3k+ stars | [Link](https://github.com/Giskard-AI/giskard) |
+| Promptfoo | Popular LLM prompt testing tool with 4.6k+ stars | [Link](https://github.com/promptfoo/promptfoo) |
 
 ## RAG Optimization
 
